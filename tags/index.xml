@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Calin Tataru</title>
+    <link>http://calintat.github.io/tags/</link>
+    <description>Recent content in Tags on Calin Tataru</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    
+	<atom:link href="http://calintat.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Amsmath</title>
+      <link>http://calintat.github.io/tags/amsmath/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://calintat.github.io/tags/amsmath/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Android</title>
+      <link>http://calintat.github.io/tags/android/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://calintat.github.io/tags/android/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Android Library</title>
+      <link>http://calintat.github.io/tags/android-library/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://calintat.github.io/tags/android-library/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anko</title>
+      <link>http://calintat.github.io/tags/anko/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://calintat.github.io/tags/anko/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Atom</title>
+      <link>http://calintat.github.io/tags/atom/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://calintat.github.io/tags/atom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Atom Grammar</title>
+      <link>http://calintat.github.io/tags/atom-grammar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://calintat.github.io/tags/atom-grammar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Atom Package</title>
+      <link>http://calintat.github.io/tags/atom-package/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://calintat.github.io/tags/atom-package/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bootstrap</title>
+      <link>http://calintat.github.io/tags/bootstrap/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://calintat.github.io/tags/bootstrap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dsl</title>
+      <link>http://calintat.github.io/tags/dsl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://calintat.github.io/tags/dsl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>File Manager</title>
+      <link>http://calintat.github.io/tags/file-manager/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://calintat.github.io/tags/file-manager/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Functional</title>
+      <link>http://calintat.github.io/tags/functional/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://calintat.github.io/tags/functional/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Haskell</title>
+      <link>http://calintat.github.io/tags/haskell/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://calintat.github.io/tags/haskell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Highlight Js</title>
+      <link>http://calintat.github.io/tags/highlight-js/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://calintat.github.io/tags/highlight-js/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>http://calintat.github.io/tags/hugo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://calintat.github.io/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Java</title>
+      <link>http://calintat.github.io/tags/java/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://calintat.github.io/tags/java/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kotlin</title>
+      <link>http://calintat.github.io/tags/kotlin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://calintat.github.io/tags/kotlin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Latex</title>
+      <link>http://calintat.github.io/tags/latex/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://calintat.github.io/tags/latex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Material</title>
+      <link>http://calintat.github.io/tags/material/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://calintat.github.io/tags/material/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Material Design</title>
+      <link>http://calintat.github.io/tags/material-design/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://calintat.github.io/tags/material-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maths</title>
+      <link>http://calintat.github.io/tags/maths/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://calintat.github.io/tags/maths/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oberon</title>
+      <link>http://calintat.github.io/tags/oberon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://calintat.github.io/tags/oberon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regex</title>
+      <link>http://calintat.github.io/tags/regex/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://calintat.github.io/tags/regex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Responsive</title>
+      <link>http://calintat.github.io/tags/responsive/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://calintat.github.io/tags/responsive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scheme</title>
+      <link>http://calintat.github.io/tags/scheme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://calintat.github.io/tags/scheme/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

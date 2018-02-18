@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Calin Tataru</title>
+    <link>http://calintat.github.io/</link>
+    <description>Recent content on Calin Tataru</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    
+	<atom:link href="http://calintat.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Units</title>
+      <link>http://calintat.github.io/project/android/units/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://calintat.github.io/project/android/units/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sensors</title>
+      <link>http://calintat.github.io/project/android/sensors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://calintat.github.io/project/android/sensors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Explorer</title>
+      <link>http://calintat.github.io/project/android/explorer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://calintat.github.io/project/android/explorer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scheme</title>
+      <link>http://calintat.github.io/project/haskell/scheme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://calintat.github.io/project/haskell/scheme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Minimal</title>
+      <link>http://calintat.github.io/project/hugo/minimal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://calintat.github.io/project/hugo/minimal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alps</title>
+      <link>http://calintat.github.io/project/android/alps/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://calintat.github.io/project/android/alps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chroma</title>
+      <link>http://calintat.github.io/project/android/chroma/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://calintat.github.io/project/android/chroma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>oxmath</title>
+      <link>http://calintat.github.io/project/latex/oxmath/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://calintat.github.io/project/latex/oxmath/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>atom-hugo</title>
+      <link>http://calintat.github.io/project/atom/atom-hugo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://calintat.github.io/project/atom/atom-hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>language-oberon</title>
+      <link>http://calintat.github.io/project/atom/language-oberon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://calintat.github.io/project/atom/language-oberon/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
