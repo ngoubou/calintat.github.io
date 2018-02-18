@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Scheme on Calin Tataru</title>
-    <link>http://calintat.github.io/tags/scheme/</link>
+    <link>https://calintat.github.io/tags/scheme/</link>
     <description>Recent content in Scheme on Calin Tataru</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     
-	<atom:link href="http://calintat.github.io/tags/scheme/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://calintat.github.io/tags/scheme/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Scheme</title>
-      <link>http://calintat.github.io/project/haskell/scheme/</link>
+      <link>https://calintat.github.io/project/haskell/scheme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://calintat.github.io/project/haskell/scheme/</guid>
+      <guid>https://calintat.github.io/project/haskell/scheme/</guid>
       <description></description>
     </item>
     

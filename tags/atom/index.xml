@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Atom on Calin Tataru</title>
-    <link>http://calintat.github.io/tags/atom/</link>
+    <link>https://calintat.github.io/tags/atom/</link>
     <description>Recent content in Atom on Calin Tataru</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     
-	<atom:link href="http://calintat.github.io/tags/atom/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://calintat.github.io/tags/atom/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>atom-hugo</title>
-      <link>http://calintat.github.io/project/atom/atom-hugo/</link>
+      <link>https://calintat.github.io/project/atom/atom-hugo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://calintat.github.io/project/atom/atom-hugo/</guid>
+      <guid>https://calintat.github.io/project/atom/atom-hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>language-oberon</title>
-      <link>http://calintat.github.io/project/atom/language-oberon/</link>
+      <link>https://calintat.github.io/project/atom/language-oberon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://calintat.github.io/project/atom/language-oberon/</guid>
+      <guid>https://calintat.github.io/project/atom/language-oberon/</guid>
       <description></description>
     </item>
     
