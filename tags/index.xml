@@ -11,16 +11,7 @@
     
     
     <item>
-      <title>Amsmath</title>
-      <link>https://calintat.github.io/tags/amsmath/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://calintat.github.io/tags/amsmath/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Android</title>
+      <title>android</title>
       <link>https://calintat.github.io/tags/android/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -29,16 +20,7 @@
     </item>
     
     <item>
-      <title>Android Library</title>
-      <link>https://calintat.github.io/tags/android-library/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://calintat.github.io/tags/android-library/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Anko</title>
+      <title>anko</title>
       <link>https://calintat.github.io/tags/anko/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -47,34 +29,7 @@
     </item>
     
     <item>
-      <title>Atom</title>
-      <link>https://calintat.github.io/tags/atom/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://calintat.github.io/tags/atom/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Atom Grammar</title>
-      <link>https://calintat.github.io/tags/atom-grammar/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://calintat.github.io/tags/atom-grammar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Atom Package</title>
-      <link>https://calintat.github.io/tags/atom-package/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://calintat.github.io/tags/atom-package/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bootstrap</title>
+      <title>bootstrap</title>
       <link>https://calintat.github.io/tags/bootstrap/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -83,16 +38,7 @@
     </item>
     
     <item>
-      <title>Dsl</title>
-      <link>https://calintat.github.io/tags/dsl/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://calintat.github.io/tags/dsl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>File Manager</title>
+      <title>file-manager</title>
       <link>https://calintat.github.io/tags/file-manager/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -101,7 +47,7 @@
     </item>
     
     <item>
-      <title>Functional</title>
+      <title>functional</title>
       <link>https://calintat.github.io/tags/functional/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -110,7 +56,7 @@
     </item>
     
     <item>
-      <title>Haskell</title>
+      <title>haskell</title>
       <link>https://calintat.github.io/tags/haskell/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -119,7 +65,7 @@
     </item>
     
     <item>
-      <title>Highlight Js</title>
+      <title>highlight-js</title>
       <link>https://calintat.github.io/tags/highlight-js/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -128,7 +74,7 @@
     </item>
     
     <item>
-      <title>Hugo</title>
+      <title>hugo</title>
       <link>https://calintat.github.io/tags/hugo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -137,7 +83,7 @@
     </item>
     
     <item>
-      <title>Java</title>
+      <title>java</title>
       <link>https://calintat.github.io/tags/java/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -146,7 +92,7 @@
     </item>
     
     <item>
-      <title>Kotlin</title>
+      <title>kotlin</title>
       <link>https://calintat.github.io/tags/kotlin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -155,16 +101,7 @@
     </item>
     
     <item>
-      <title>Latex</title>
-      <link>https://calintat.github.io/tags/latex/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://calintat.github.io/tags/latex/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Material</title>
+      <title>material</title>
       <link>https://calintat.github.io/tags/material/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -173,43 +110,7 @@
     </item>
     
     <item>
-      <title>Material Design</title>
-      <link>https://calintat.github.io/tags/material-design/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://calintat.github.io/tags/material-design/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Maths</title>
-      <link>https://calintat.github.io/tags/maths/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://calintat.github.io/tags/maths/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Oberon</title>
-      <link>https://calintat.github.io/tags/oberon/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://calintat.github.io/tags/oberon/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Regex</title>
-      <link>https://calintat.github.io/tags/regex/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://calintat.github.io/tags/regex/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Responsive</title>
+      <title>responsive</title>
       <link>https://calintat.github.io/tags/responsive/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -218,7 +119,7 @@
     </item>
     
     <item>
-      <title>Scheme</title>
+      <title>scheme</title>
       <link>https://calintat.github.io/tags/scheme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       

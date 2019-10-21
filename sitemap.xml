@@ -3,183 +3,103 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://calintat.github.io/project/android/units/</loc>
+    <loc>https://calintat.github.io/project/units/</loc>
   </url>
   
   <url>
-    <loc>https://calintat.github.io/project/android/sensors/</loc>
+    <loc>https://calintat.github.io/project/sensors/</loc>
   </url>
   
   <url>
-    <loc>https://calintat.github.io/project/android/explorer/</loc>
+    <loc>https://calintat.github.io/project/explorer/</loc>
   </url>
   
   <url>
-    <loc>https://calintat.github.io/project/haskell/scheme/</loc>
+    <loc>https://calintat.github.io/project/scheme/</loc>
   </url>
   
   <url>
-    <loc>https://calintat.github.io/project/hugo/minimal/</loc>
+    <loc>https://calintat.github.io/project/minimal/</loc>
   </url>
   
   <url>
-    <loc>https://calintat.github.io/project/android/alps/</loc>
-  </url>
-  
-  <url>
-    <loc>https://calintat.github.io/project/android/chroma/</loc>
-  </url>
-  
-  <url>
-    <loc>https://calintat.github.io/project/latex/oxmath/</loc>
-  </url>
-  
-  <url>
-    <loc>https://calintat.github.io/project/atom/atom-hugo/</loc>
-  </url>
-  
-  <url>
-    <loc>https://calintat.github.io/project/atom/language-oberon/</loc>
-  </url>
-  
-  <url>
-    <loc>https://calintat.github.io/tags/amsmath/</loc>
-    <priority>0</priority>
+    <loc>https://calintat.github.io/about/</loc>
   </url>
   
   <url>
     <loc>https://calintat.github.io/tags/android/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://calintat.github.io/tags/android-library/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://calintat.github.io/tags/anko/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://calintat.github.io/tags/atom/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://calintat.github.io/tags/atom-grammar/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://calintat.github.io/tags/atom-package/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://calintat.github.io/tags/bootstrap/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://calintat.github.io/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://calintat.github.io/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://calintat.github.io/tags/dsl/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://calintat.github.io/tags/file-manager/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://calintat.github.io/tags/functional/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://calintat.github.io/tags/haskell/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://calintat.github.io/tags/highlight-js/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://calintat.github.io/tags/hugo/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://calintat.github.io/tags/java/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://calintat.github.io/tags/kotlin/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://calintat.github.io/tags/latex/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://calintat.github.io/tags/material/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://calintat.github.io/tags/material-design/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://calintat.github.io/tags/maths/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://calintat.github.io/tags/oberon/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://calintat.github.io/project/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://calintat.github.io/tags/regex/</loc>
-    <priority>0</priority>
+    <loc>https://calintat.github.io/research/</loc>
   </url>
   
   <url>
     <loc>https://calintat.github.io/tags/responsive/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://calintat.github.io/tags/scheme/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://calintat.github.io/tags/</loc>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://calintat.github.io/teaching/</loc>
   </url>
   
 </urlset>

@@ -12,91 +12,46 @@
     
     <item>
       <title>Units</title>
-      <link>https://calintat.github.io/project/android/units/</link>
+      <link>https://calintat.github.io/project/units/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://calintat.github.io/project/android/units/</guid>
+      <guid>https://calintat.github.io/project/units/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sensors</title>
-      <link>https://calintat.github.io/project/android/sensors/</link>
+      <link>https://calintat.github.io/project/sensors/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://calintat.github.io/project/android/sensors/</guid>
+      <guid>https://calintat.github.io/project/sensors/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Explorer</title>
-      <link>https://calintat.github.io/project/android/explorer/</link>
+      <link>https://calintat.github.io/project/explorer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://calintat.github.io/project/android/explorer/</guid>
+      <guid>https://calintat.github.io/project/explorer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Scheme</title>
-      <link>https://calintat.github.io/project/haskell/scheme/</link>
+      <link>https://calintat.github.io/project/scheme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://calintat.github.io/project/haskell/scheme/</guid>
+      <guid>https://calintat.github.io/project/scheme/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Minimal</title>
-      <link>https://calintat.github.io/project/hugo/minimal/</link>
+      <link>https://calintat.github.io/project/minimal/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://calintat.github.io/project/hugo/minimal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Alps</title>
-      <link>https://calintat.github.io/project/android/alps/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://calintat.github.io/project/android/alps/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Chroma</title>
-      <link>https://calintat.github.io/project/android/chroma/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://calintat.github.io/project/android/chroma/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>oxmath</title>
-      <link>https://calintat.github.io/project/latex/oxmath/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://calintat.github.io/project/latex/oxmath/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>atom-hugo</title>
-      <link>https://calintat.github.io/project/atom/atom-hugo/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://calintat.github.io/project/atom/atom-hugo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>language-oberon</title>
-      <link>https://calintat.github.io/project/atom/language-oberon/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://calintat.github.io/project/atom/language-oberon/</guid>
+      <guid>https://calintat.github.io/project/minimal/</guid>
       <description></description>
     </item>
     
